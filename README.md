@@ -1,6 +1,5 @@
 - Hi, I’m @Abrams11IsBack
-- I’m interested in java, python
-- I’m currently learning javascript and elixir
+- I code python and java and javascript and i know html css sql and more stuff
 - I’m looking to collaborate on fun stuff
 - How to reach me: abrams11isback@gmail.com
 
