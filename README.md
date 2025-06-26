@@ -1,7 +1,6 @@
-- Hi, I’m @Abrams11IsBack
-- I code python and java and javascript and i know html css sql and more
-- I’m looking to collaborate on fun stuff
-- How to reach me: michalpat787@gmail.com OR michalpatsluzb@proton.me
+- Code runs on hopes and prayers
+
+michalpat787@gmail.com OR michalpatsluzb@proton.me
 
 I have no problems speaking English
 
