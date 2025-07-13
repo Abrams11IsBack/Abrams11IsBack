@@ -1,7 +1,7 @@
 - Code runs on hopes and prayers
 - I totally need to update this account all the repositories are ancient
 
-michalpat787@gmail.com OR michalpatsluzb@proton.me
+michalpatsluzb@proton.me
 
 I have no problems speaking English
 
