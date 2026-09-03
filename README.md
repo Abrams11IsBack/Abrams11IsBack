@@ -5,4 +5,4 @@
 
 michalpatsluzb@proton.me
 
-![alt text](https://cdn.discordapp.com/attachments/1502649434108854323/1542936096168611860/GOngbong.png?ex=6a930ab7&is=6a91b937&hm=6962dc4eac86af973bf01caf2e713e5c55e3df42ff2eea7a73d65ea2c47dc690& "dog")
+![alt text](https://github.com/Abrams11IsBack/Abrams11IsBack/blob/f641752aedf65f57c5d3bc252d88007291303b4d/GOngbong.png "dog")
