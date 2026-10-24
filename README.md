@@ -2,6 +2,7 @@
 - I totally need to update this account all the repositories are ancient
 - Svelte is peak please use it guys
 - Medicine & IT Sector
+- Trained an AI in some game and can't beat it now
 
 michalpatsluzb@proton.me
 
